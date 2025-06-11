@@ -1,0 +1,4 @@
+{ "_id": 1, "nom": "Dupont", "prenom": "Alice", "login": "alice", "mdp": "1234" }
+{ "_id": 2, "nom": "Durand", "prenom": "Belina", "login": "belina", "mdp": "5694" }
+{ "_id": 3, "nom": "Caron", "prenom": "Camilia", "login": "camilia", "mdp": "9478" }
+{ "_id": 4, "nom": "Dupont", "prenom": "Dorine", "login": "dorine", "mdp": "1347" }
